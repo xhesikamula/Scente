@@ -10,6 +10,8 @@
 ## 💻 Technologies Used
 
 - **Tailwind CSS**
+- **HTML5**
+- **CSS3 (in some parts)**
 
 ## 🚀 Getting Started
 
